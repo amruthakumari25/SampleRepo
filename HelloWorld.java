@@ -1,9 +1,11 @@
 
 public class HelloWorld {
 
-	public static display() {
+	public void display() {
 		System.out.println("Welcome to JAVA");
 
 	}
+        public void apiCal() {
+System.out.println("This is a api call");
 
 }
